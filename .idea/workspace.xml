@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec81c26c-eccf-4824-8d6e-029bbca2daac" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2RYrp7tFdKkqX3YwdfII7mEIUl2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers": "true",
+    "last_directory_selection": "C:/Users/nitaj/Desktop/Session05aj171/Test",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ual.hmis.session5.exercise4" />
+      <recent name="ual.hmis.session05.exercise3" />
+      <recent name="ual.hmis.session5.exercise2" />
+      <recent name="ual.hmis.session05.exercise1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Exercise4Test">
+    <configuration name="Exercise1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Session05aj171" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ual.hmis.session05.exercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ual.hmis.session05.exercise1" />
+      <option name="MAIN_CLASS_NAME" value="ual.hmis.session05.exercise1.Exercise1Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Session05aj171" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ual.hmis.session5.exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ual.hmis.session5.exercise2" />
+      <option name="MAIN_CLASS_NAME" value="ual.hmis.session5.exercise2.Exercise2Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise2Test.testSecond" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Session05aj171" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ual.hmis.session5.exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ual.hmis.session5.exercise2" />
+      <option name="MAIN_CLASS_NAME" value="ual.hmis.session5.exercise2.Exercise2Test" />
+      <option name="METHOD_NAME" value="testSecond" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise3Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Session05aj171" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ual.hmis.session05.exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ual.hmis.session05.exercise3" />
+      <option name="MAIN_CLASS_NAME" value="ual.hmis.session05.exercise3.Exercise3Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise4Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Session05aj171" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ual.hmis.session5.exercise4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ual.hmis.session5.exercise4" />
+      <option name="MAIN_CLASS_NAME" value="ual.hmis.session5.exercise4.Exercise4Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Exercise4Test" />
+        <item itemvalue="JUnit.Exercise3Test" />
+        <item itemvalue="JUnit.Exercise2Test" />
+        <item itemvalue="JUnit.Exercise2Test.testSecond" />
+        <item itemvalue="JUnit.Exercise1Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec81c26c-eccf-4824-8d6e-029bbca2daac" name="Changes" comment="" />
+      <created>1687438038136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687438038136</updated>
+      <workItem from="1687438039415" duration="20864000" />
+      <workItem from="1687692719921" duration="13562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Session05aj171$Exercise3Test.ic" NAME="Exercise3Test Coverage Results" MODIFIED="1687708605377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ual.hmis.session05.exercise3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Session05aj171$Exercise1Test.ic" NAME="Exercise1Test Coverage Results" MODIFIED="1687692866624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ual.hmis.session05.exercise1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Session05aj171$Exercise2Test_testSecond.ic" NAME="Exercise2Test.testSecond Coverage Results" MODIFIED="1687695328339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ual.hmis.session5.exercise2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Session05aj171$Exercise2Test.ic" NAME="Exercise2Test Coverage Results" MODIFIED="1687708319683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ual.hmis.session5.exercise2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Session05aj171$Exercise1Test_dupcia.ic" NAME="Exercise1Test.dupcia Coverage Results" MODIFIED="1687447238733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ual.hmis.session05.exercise1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Session05aj171$napisTest_ileZnakow.ic" NAME="napisTest.ileZnakow Coverage Results" MODIFIED="1687448630238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ual.hmis.session05.exercise1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Session05aj171$Exercise2Test_testSeventh.ic" NAME="Exercise2Test.testSeventh Coverage Results" MODIFIED="1687454772575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ual.hmis.session5.exercise2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Session05aj171$KalkulatorTest2_dupcia.ic" NAME="KalkulatorTest2.dupcia Coverage Results" MODIFIED="1687447740639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ual.hmis.session05.exercise1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Session05aj171$Exercise1Test_transform.ic" NAME="Exercise1Test.transform Coverage Results" MODIFIED="1687446737049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ual.hmis.session05.exercise1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Session05aj171$Exercise4Test.ic" NAME="Exercise4Test Coverage Results" MODIFIED="1687710299104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ual.hmis.session5.exercise4.*</FILTER>
+    </SUITE>
+  </component>
+</project>
