@@ -28,7 +28,7 @@ class Exercise2Test {
     }
 
     @Test
-    void testFourth() {//assertTrue(login.compruebaLoginEnBD("user", "pass"));
+    void testFourth() {
         Exercise2 test4 = new Exercise2();
         boolean result = test4.checkLoginInDB("user", "pass");
         boolean expected = true;
